@@ -1,0 +1,16 @@
+const express = require('express');
+const path = require('path');
+const PORT = 3001;
+const app = express();
+const notesRouter = require('./routes/notes.js');
+
+
+
+
+
+
+
+
+app.listen(PORT, () =>
+  console.log(`Example app listening at http://localhost:${PORT}`)
+);
