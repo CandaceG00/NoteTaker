@@ -1,11 +1,10 @@
 const express = require('express');
 const path = require('path');
-const PORT = 3001;
+const PORT = process.env.PORT || 3301;
 const app = express();
-const notesRouter = require('./routes/notes.js');
+const html_routes = require('./routes/html-routes.js');
 
-
-
+app.use('/notes', html_routes);
 
 
 
