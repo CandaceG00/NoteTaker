@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"Hello","text":"Hello","note_id":"e56e99eb-9d11-4321-a1bf-2442d913c9a7"},{"title":"Hello","text":"Hello","note_id":"b47d9e27-e950-45ff-a5cf-8b13ea81a744"},{"title":"This is a new note","text":"Note 1","note_id":"dd84e6cb-264d-4784-9810-8bee3b70b106"},{"title":"Hello World","text":"Hi there","note_id":"a03405c2-f93a-48a8-83cd-7e60e0905318"},{"title":"Hello World","text":"Hi there","note_id":"87261a85-0701-4975-ab5b-e8061b7487bf"},{"title":"Hello #2","text":"Hi there","note_id":"fcefead7-73ac-4837-bed2-a68151314879"},{"title":"Hi World","text":"My name is...","note_id":"e8089a47-ecc1-4add-99ea-2871dac4ccfc"},{"title":"Candace","text":"My name is Candace","note_id":"20803664-08ee-42d7-b1a7-b41d8bc2e882"},{"title":"Note 1234","text":"1234","note_id":"3a4d46f2-98a9-4782-abec-e5972c766063"}]
