@@ -26,6 +26,15 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 * This web application can be used to create and store notes for tasks the user needs to complete.
 
+* Link to Heroku: https://dashboard.heroku.com/apps/note-taker5229
+* Link to deployed site: https://note-taker5229-ecfbfdcd4843.herokuapp.com/
+* Link to GitHub Repo: https://github.com/CandaceG00/NoteTaker
+
+* Screenshots:
+    <img src="./screenshots/screenshot_1.png"/>
+    <img src="./screenshots/screenshot_2.png"/>
+
+
 ## Credits:
 
 N/A
